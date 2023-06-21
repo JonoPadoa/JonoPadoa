@@ -1,6 +1,6 @@
-<div id = "header" align = "center">
-<img src ="https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/2cNB7Li.jpg" width = "600" height = "200"/>  
-  <p> Hi there, I'm Jono - I am a dedicated and enthusistic Full Stack Developer looking for my next challenge and opportunity</p>
+<div id = "header" align = "right">
+  <p id = "header" align = "right"> Hi there, I'm Jono - I am a dedicated and enthusistic Full Stack Developer looking for my next challenge and opportunity</p>
+<img src ="https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/2cNB7Li.jpg" width = "700" height = "400"/>  
 </div>
 
 Hi, I'm Jono 👋
