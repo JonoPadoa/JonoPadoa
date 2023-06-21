@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-<img src ="https://e1.pxfuel.com/desktop-wallpaper/153/422/desktop-wallpaper-beautiful-blue-mountain-landscape-with-sunrise-and-sunset-in-mountains-background-dark-night-time-outdoor-and-hiking-concept-sun-in-the-sky-vector-good-for-site-banner-cover-poster-7162596-vector.jpg" width = "800" height = "200"/>  
+<img src ="https://e1.pxfuel.com/desktop-wallpaper/153/422/desktop-wallpaper-beautiful-blue-mountain-landscape-with-sunrise-and-sunset-in-mountains-background-dark-night-time-outdoor-and-hiking-concept-sun-in-the-sky-vector-good-for-site-banner-cover-poster-7162596-vector.jpg" width = "600" height = "200"/>  
 </div>
 
 Hi, I'm Jono 👋
