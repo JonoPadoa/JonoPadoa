@@ -12,10 +12,10 @@ Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/jonathan-padoa-5778a696/">  
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://twitter.com/">  
-https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 <!--
