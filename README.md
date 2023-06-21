@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-<img src ="https://wallpaper.dog/large/20553660.jpg" width = "1000"/>  
+<img src ="https://wallpaper.dog/large/20553660.jpg" width = "1000" height = "100"/>  
 </div>
 
 Hi, I'm Jono 👋
