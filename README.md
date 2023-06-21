@@ -10,6 +10,7 @@ Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.
 <br/>
 <br/>
 
+<h3>Checkout my socials👀</h3>
 <div id="badges">
 <a href="https://www.linkedin.com/in/jonathan-padoa-5778a696/">  
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
