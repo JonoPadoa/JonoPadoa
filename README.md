@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-<img src ="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wTyp40XpgtMPaC47-eR2KeI3-pSx0TQuoQ&usqp=CAU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fyoutube-background&psig=AOvVaw1g0Hhu1x7RvsRnDrJvbO0-&ust=1687471657033000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC42I2w1f8CFQAAAAAdAAAAABAE)" width = "100"/>  
+<img src ="https://www.shutterstock.com/image-photo/panoramic-view-abstract-fog-white-260nw-2043241487.jpg" width = "100"/>  
 </div>
 
 Hi, I'm Jono 👋
