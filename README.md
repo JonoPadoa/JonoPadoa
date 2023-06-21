@@ -1,21 +1,12 @@
-<div id = "header" align = "right">
+<div id = "header" align = "left">
 <img src ="https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/2cNB7Li.jpg" width = "700" height = "400"/>  
-<p id = "header" align = "right"> Hi there, I'm Jono - I am a dedicated and enthusistic Full Stack Developer looking for my next challenge and opportunity</p>
 </div>
 
-Hi, I'm Jono 👋
+Hi, I'm Jono 👋 - I am an enthusiastic junior software developer from New Zealand.
+- 🔭 I’m currently working on an internship - details to follow
+- 🌱 I’m currently learning Next.js and Typescript
+- 👯 I’m looking to collaborate on any project that I can learn from and grow
 
 <!--
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
