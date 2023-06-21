@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-<img src ="https://e1.pxfuel.com/desktop-wallpaper/153/422/desktop-wallpaper-beautiful-blue-mountain-landscape-with-sunrise-and-sunset-in-mountains-background-dark-night-time-outdoor-and-hiking-concept-sun-in-the-sky-vector-good-for-site-banner-cover-poster-7162596-vector.jpg" width = "600" height = "200"/>  
+<img src ="https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/2cNB7Li.jpg" width = "600" height = "200"/>  
   <p> Hi there, I'm Jono - I am a dedicated and enthusistic Full Stack Developer looking for my next challenge and opportunity</p>
 </div>
 
