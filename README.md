@@ -1,5 +1,6 @@
 <div id = "header" align = "center">
 <img src ="https://e1.pxfuel.com/desktop-wallpaper/153/422/desktop-wallpaper-beautiful-blue-mountain-landscape-with-sunrise-and-sunset-in-mountains-background-dark-night-time-outdoor-and-hiking-concept-sun-in-the-sky-vector-good-for-site-banner-cover-poster-7162596-vector.jpg" width = "600" height = "200"/>  
+  <p> Hi there, I'm Jono - I am a dedicated and enthusistic Full Stack Developer looking for my next challenge and opportunity</p>
 </div>
 
 Hi, I'm Jono 👋
