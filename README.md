@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id = "header" align = "center">
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wTyp40XpgtMPaC47-eR2KeI3-pSx0TQuoQ&usqp=CAU" width = "100"/>  
+</div>
+
+Hi, I'm Jono 👋
 
 <!--
 **JonoPadoa/JonoPadoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
