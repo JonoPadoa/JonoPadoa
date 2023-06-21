@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-<img src ="https://www.shutterstock.com/image-photo/panoramic-view-abstract-fog-white-260nw-2043241487.jpg" width = "100"/>  
+<img src ="https://media.giphy.com/media/tKx3Fcc1vv9BhDMMjw/giphy.gif" width = "100"/>  
 </div>
 
 Hi, I'm Jono 👋
