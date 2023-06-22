@@ -3,7 +3,7 @@
 </div>
 
 <div>
- <h4>Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.</h4>
+ <h2>Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.</h2>
 <div/>
 
 - 🔭 I’m currently working on an internship - details to follow
