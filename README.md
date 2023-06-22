@@ -3,15 +3,15 @@
 </div>
 
 <div>
-  Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.
-  <p>
-  - 🔭 I’m currently working on an internship - details to follow
-  - 🌱 I’m currently learning Next.js and Typescript
-  - 👯 I’m looking to collaborate on any project that I can learn from and grow
-  - 🔏 Keen interest in cyber security and working to advance my qualifications in this area
-  </p>
-</div>
-    <br/>
+ <h4>Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.</h4>
+<div/>
+
+- 🔭 I’m currently working on an internship - details to follow
+- 🌱 I’m currently learning Next.js and Typescript
+- 👯 I’m looking to collaborate on any project that I can learn from and grow
+- 🔏 Keen interest in cyber security and working to advance my qualifications in this area
+
+<br/>
 
 <h3>Checkout my socials👀</h3>
 <img src="https://komarev.com/ghpvc/?username=JonoPadoa&style=flat-square&color=blue" alt="views"/>
