@@ -6,8 +6,8 @@
  <h2>Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.</h2>
 <div/>
 
-- 🔭 I’m currently working on an internship - details to follow
-- 🌱 I’m currently learning Next.js and Typescript
+- 🏢 I’m currently working on an internship - details to follow
+- 📚 I’m currently learning Next.js and Typescript
 - 👯 I’m looking to collaborate on any project that I can learn from and grow
 - 🔏 Keen interest in cyber security and working to advance my qualifications in this area
 
