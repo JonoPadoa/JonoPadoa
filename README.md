@@ -2,13 +2,15 @@
 <img src ="https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/2cNB7Li.jpg" width = "700" height = "400"/>  
 </div>
 
-<h3>Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.<h3/>
+<div>
+  <h3>Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.<h3/>
   <p>
-- 🔭 I’m currently working on an internship - details to follow
-- 🌱 I’m currently learning Next.js and Typescript
-- 👯 I’m looking to collaborate on any project that I can learn from and grow
-- 🔏 Keen interest in cyber security and working to advance my qualifications in this area
-</p>
+  - 🔭 I’m currently working on an internship - details to follow
+  - 🌱 I’m currently learning Next.js and Typescript
+  - 👯 I’m looking to collaborate on any project that I can learn from and grow
+  - 🔏 Keen interest in cyber security and working to advance my qualifications in this area
+  </p>
+</div>
     <br/>
 
 <h3>Checkout my socials👀</h3>
