@@ -35,6 +35,11 @@ Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: Some of my STATS:
+<img src="https://img.freepik.com/free-vector/luxury-background-gold-gradient-design_483537-1108.jpg" width="100"/>
+
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
 <!--
 
 
