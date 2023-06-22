@@ -8,7 +8,6 @@ Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.
 - 👯 I’m looking to collaborate on any project that I can learn from and grow
 - 🔏 Keen interest in cyber security and working to advance my qualifications in this area
 <br/>
-<br/> 
 
 <h3>Checkout my socials👀</h3>
 <img src="https://komarev.com/ghpvc/?username=JonoPadoa&style=flat-square&color=blue" alt="views"/>
@@ -20,6 +19,11 @@ Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
+
+### :hammer_and_wrench: Languages and Tools i've learnt along the way:
+
+
+
 <!--
 
 
