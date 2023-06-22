@@ -12,7 +12,6 @@
 - 🔏 Keen interest in cyber security and working to advance my qualifications in this area
 
 <h3>Checkout my socials👀</h3>
-<img src="https://komarev.com/ghpvc/?username=JonoPadoa&style=flat-square&color=blue" alt="views"/>
 <div id="badges">
 <a href="https://www.linkedin.com/in/jonathan-padoa-5778a696/">  
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -20,6 +19,7 @@
 <a href="https://twitter.com/">  
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+<img src="https://komarev.com/ghpvc/?username=JonoPadoa&style=flat-square&color=blue" alt="views"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools i've learnt along the way:
