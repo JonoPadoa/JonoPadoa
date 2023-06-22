@@ -38,6 +38,9 @@ Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.
 ### :fire: Some of my STATS:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonoPadoa&theme=rising-sun&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonoPadoa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 
