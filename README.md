@@ -36,7 +36,7 @@ Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.
 </div>
 
 ### :fire: Some of my STATS:
-<br/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonoPadoa&theme=rising-sun&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <br/>
 
