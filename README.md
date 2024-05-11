@@ -3,7 +3,7 @@
 </div>
 
 <div>
- <h2>Hi, I'm Jono 👋 - an enthusiastic junior software developer from New Zealand.</h2>
+ <h2>Hi, I'm Jono 👋 - an enthusiastic software developer from New Zealand.</h2>
 <div/>
 
 - 🏢 Currently doing an internship with Dacreed in Auckland and loving it!
